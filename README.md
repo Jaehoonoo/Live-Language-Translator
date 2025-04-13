@@ -1,7 +1,7 @@
 # Live-Language-Translator
 Technologies:
-OpenAI API
-Unity
+OpenAI API, 
+Unity, 
 C#
 
 Hardware:
