@@ -8,6 +8,7 @@
 MemoryCaptures/
 *.utmp
 Live Language Translator_BurstDebugInformation_DoNotShip
+mono_crash.*
 
 # User-specific settings
 UserSettings/
@@ -21,6 +22,7 @@ UserSettings/
 *.tmp
 *.user
 *.userprefs
+.vscode
 
 # Rider
 .idea/
