@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+
+# Visual Studio / MonoDevelop generated files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files (if used for local development)
+.env
