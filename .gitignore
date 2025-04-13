@@ -6,6 +6,7 @@
 [Bb]uilds/
 [Ll]ogs/
 MemoryCaptures/
+*.utmp
 
 # User-specific settings
 UserSettings/
